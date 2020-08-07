@@ -5,8 +5,6 @@
 <!-- Credits Rotating text: Rachel Smith https://codepen.io/mohaiman/pen/MQqMyo -->
 <!-- Credits Moving boxes: Mohammad Abdul Mohaiman https://codepen.io/mohaiman/pen/MQqMyo -->
 <style>  
-@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
-
 *{
     margin: 0px;
     padding: 0px;
